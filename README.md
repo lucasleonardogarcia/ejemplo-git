@@ -1,7 +1,10 @@
 # ejemplo-git
-<<<<<<< HEAD
+
 ### Lucas Garcia
+<<<<<<< HEAD
 ##Juan Manuel Diez
 =======
+=======
+>>>>>>> ad7f5d70991f622e182e233b2130a3460e7cb6dd
 ###Martín Barroso
->>>>>>> 73720aff1e63957a527dfc0f2d98a4fc59b41ba1
+###Manuel Liberal
